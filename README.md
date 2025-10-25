@@ -6,7 +6,7 @@ The Amazon Sales Analysis Dashboard is designed to analyze and visualize sales p
 The objective of this project is to analyze Amazon’s sales data to gain actionable insights into product performance, revenue trends, and customer purchasing patterns. It aims to identify top-performing products, track regional sales distribution, and monitor overall business growth. The dashboard supports data-driven decision-making to improve sales strategies and maximize profitability.
 
 # Dataset used
-- 
+- <a href="https://github.com/LOKCHANDHRU/Sales-Analysis-of-Amazon-Products-Dashboard/blob/main/Amazon_Combined_Data.xlsx">Amazon Products Dataset</a>
 
 # Quetions (KPIs)
  - Total Sales – Represents the overall revenue generated from all products sold on Amazon.
@@ -46,4 +46,5 @@ The objective of this project is to analyze Amazon’s sales data to gain action
 
 # Dashboard
 
- - Dashboard Screenshot
+ - <a href="https://github.com/LOKCHANDHRU/Sales-Analysis-of-Amazon-Products-Dashboard/blob/main/Dashboard.pdf"> Dashboard image</a>
+ - <a href="https://github.com/LOKCHANDHRU/Sales-Analysis-of-Amazon-Products-Dashboard/blob/main/Sales%20Analysis%20of%20Amazon%20product%20%20dashbords.pbit"> Dashboard</a>
